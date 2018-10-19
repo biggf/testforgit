@@ -1,0 +1,5 @@
+git init
+git add "xxx"
+git  commit -m "firstcommit"
+git remote add origin https://github.com/biggf/testforgit.git
+git push -u origin master
